@@ -1,0 +1,7 @@
+# julianalongoriag
+echo "# julianalongoriag" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/julogu/julianalongoriag.git
+git push -u origin master
